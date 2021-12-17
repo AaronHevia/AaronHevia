@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronhevia&layout=compact)](https://github.com/aaronhevia/github-readme-stats)
 
-​[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronhevia)](https://github.com/aaronhevia/github-readme-stats)
+[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronhevia)](https://github.com/aaronhevia/github-readme-stats)
 
 
 
