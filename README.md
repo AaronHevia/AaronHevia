@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Aaron and welcome to my GitHub!</h1>
-<h3 align="center">I am a retired Marine veteran aspiring to be a software developer!</h3>
+<h3 align="center">I am a retired Marine veteran turned software developer!</h3>
 <br>
 <em>I'm passionate about helping people, learning, and all things electronics.</em>
 <br><br>
