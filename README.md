@@ -3,7 +3,7 @@
 <br>
 <em>I'm passionate about helping people, learning, and all things electronics.</em>
 <br><br>
-📖 I’m currently learning various C# and Python libraries as well as clean syntax with a focus on machine learning (ML) and artificial intelligence (AI).
+📖 I’m currently learning various C# and Python libraries as well as clean syntax with a focus on web development, artificial intelligence (AI), machine learning (ML), and data mining.
 <br><br>
 <hr>
 
